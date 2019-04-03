@@ -1,11 +1,5 @@
-## Challenge
-
-
-#2016-07-28 Find max block
-
-------------------------
-
 ## Find max block
+
 ### 題目說明
 
 找出 10x10 陣列中的相鄰最大區塊
@@ -43,10 +37,3 @@
 	0 0 0 0 0 0 1 1 1 1
 	0 0 0 0 0 0 1 1 1 1
 	0 0 0 0 0 0 0 0 0 1
-
-------------------------
-挑戰題：
-https://github.com/ChungYoProbies/find_max_block/
-
-問題與討論：
-https://github.com/ChungYoProbies/question
